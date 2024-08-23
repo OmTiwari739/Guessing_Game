@@ -26,7 +26,7 @@ A fun, interactive number guessing game built using Python and Pygame. The playe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/professional-guessing-game.git
+   git clone https://github.com/OmTiwari739/Guessing_Game
    ```
 
 2. Navigate to the project directory:
@@ -76,6 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Python Pygame documentation for guidance on building the GUI.
 - Stack Overflow and other online communities for support and troubleshooting.
-```
-
-Just replace `https://github.com/yourusername/professional-guessing-game.git` with the actual URL of your GitHub repository, and adjust the screenshot link and license file if needed.

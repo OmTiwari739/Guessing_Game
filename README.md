@@ -56,7 +56,16 @@ A fun, interactive number guessing game built using Python and Pygame. The playe
 
 ## Screenshots
 
-![Professional Guessing Game Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/63f2e06c-ab00-4db9-9813-02c88e641e11)
+
+![image](https://github.com/user-attachments/assets/3c4bc8da-dc1b-4789-a8ce-f6165b810698)
+
+![image](https://github.com/user-attachments/assets/75117d65-b16e-499c-94a7-3205cad144e4)
+
+![image](https://github.com/user-attachments/assets/3cf7019e-b3e5-49ad-9ed5-492443414a54)
+
+![image](https://github.com/user-attachments/assets/a4dfedf7-455d-4b82-abf1-2d3041391d6c)
+
 
 ## Contributing
 
